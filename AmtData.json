@@ -1,0 +1,60 @@
+{
+  "Data": [
+    {
+      "Name": "Super Speciality Hospital",
+      "Address": "Shrikrishna Peth",
+      "Covid_Bed": "1000",
+      "Covid_Bed_Avl": "500",
+      "ICU_Beds": "200",
+      "ICU_Bed_Avl": "50"
+    },
+    {
+      "Name": "District General Hospital",
+      "Address": "Mother Teresa Road",
+      "Covid_Bed": "900",
+      "Covid_Bed_Avl": "200",
+      "ICU_Beds": "150",
+      "ICU_Bed_Avl": "32"
+    },
+    {
+      "Name": "Multispeciality Hospital",
+      "Address": "Dastur Nagar",
+      "Covid_Bed": "1400",
+      "Covid_Bed_Avl": "0",
+      "ICU_Beds": "300",
+      "ICU_Bed_Avl": "60"
+    },
+    {
+      "Name": "Belokar Hospital",
+      "Address": "Rukmini Nagar",
+      "Covid_Bed": "1998",
+      "Covid_Bed_Avl": "232",
+      "ICU_Beds": "453",
+      "ICU_Bed_Avl": "234"
+    },
+    {
+      "Name": "Parashree Hospital",
+      "Address": "Khaparde Garden",
+      "Covid_Bed": "2000",
+      "Covid_Bed_Avl": "299",
+      "ICU_Beds": "333",
+      "ICU_Bed_Avl": "0"
+    },
+    {
+      "Name": "Radiant Hospital",
+      "Address": "Kalyan Nagar Chowk",
+      "Covid_Bed": "3999",
+      "Covid_Bed_Avl": "222",
+      "ICU_Beds": "3333",
+      "ICU_Bed_Avl": "444"
+    },
+    {
+      "Name": "Zenith Hospital",
+      "Address": "Walcut Compound",
+      "Covid_Bed": "4000",
+      "Covid_Bed_Avl": "0",
+      "ICU_Beds": "200",
+      "ICU_Bed_Avl": "50"
+    }
+  ]
+}
